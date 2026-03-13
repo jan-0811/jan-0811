@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Venkat
 
+
+I’m an Aerospace Engineer passionate about flight, engineering systems, and solving complex problems. I enjoy building, experimenting, and continuously learning how things work — from code to aircraft dynamics.
+
+
 <!--
 **jan-0811/jan-0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
